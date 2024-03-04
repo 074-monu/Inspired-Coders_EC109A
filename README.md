@@ -30,7 +30,7 @@ https://github.com/074-monu/Inspired-Coders_EC109A/assets/162000558/de0f7f11-c1a
 
 In the landing page user can see the canvas where there are two objects one is snake and another one is snake's food. User can also see the current score and highest score as well. By clicking any any key on kyboard the game starts and by navigation keys the snake can be contrlled. As the snake eats food, the size of the snake keeps increasing. The game will end when it will collide either with borders or with it's own body. By clicking "OK" the game can be restarted again.
 
-### 4) COLLABORATORS⚙🔭:
+### 4) COLLABORATORS🔰:
 
 #### (●) THIS PROJECT iS Made by the team "INSPIRED CODERS" 
 
